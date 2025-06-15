@@ -6,7 +6,7 @@
   <img src="https://github-readme-stats.vercel.app/api?username=Yeju-Kang&show_icons=true&theme=cupcake" height="170"/>
   
   <!-- Top Langs (calm theme) -->
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yeju-Kang&layout=compact&theme=calm" height="170"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yeju-Kang&layout=compact&theme=cupcake" height="170"/>
 
 
 </div>
