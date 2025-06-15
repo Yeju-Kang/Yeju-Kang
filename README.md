@@ -1,3 +1,9 @@
-## 👩‍💻 Yeju Kang | Full Stack Developer
+## 👩‍💻 Yeju Kang | Full Stack Developer 
 
-<img src="https://cdn.jsdelivr.net/gh/Yeju-Kang/asset/cat-minimal.png" height="60" alt="심플냥이" />
+<a href="https://www.gitanimals.org/en_US?utm_medium=image&utm_source=Yeju-Kang&utm_content=farm">
+<img
+  src="https://render.gitanimals.org/farms/Yeju-Kang"
+  width="600"
+  height="300"
+/>
+</a>
