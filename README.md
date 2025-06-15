@@ -2,14 +2,11 @@
 
 <div align="center" style="display: flex; justify-content: center; gap: 20px;">
 
-  <!-- GitHub Stats -->
-  <img src="https://github-readme-stats.vercel.app/api?username=Yeju-Kang&show_icons=true&theme=omni" alt="Yeju-Kang's GitHub stats" height="170"/>
+  <!-- GitHub Stats (화이트) -->
+  <img src="https://github-readme-stats.vercel.app/api?username=Yeju-Kang&show_icons=true&theme=default" height="170"/>
   
-  <!-- Top Langs -->
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yeju-Kang&layout=compact&theme=rose_pine" alt="Yeju-Kang's Top Langs" height="170"/>
-  
-  <!-- GitHub Streak -->
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=Yeju-Kang&theme=gradient" alt="Yeju-Kang's GitHub streak" height="170"/>
+  <!-- Top Langs (화이트) -->
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yeju-Kang&layout=compact&theme=default" height="170"/>
   
 </div>
 
