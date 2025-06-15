@@ -2,13 +2,15 @@
 
 <div align="center" style="display: flex; justify-content: center; gap: 20px;">
 
-  <!-- GitHub Stats (화이트) -->
-  <img src="https://github-readme-stats.vercel.app/api?username=Yeju-Kang&show_icons=true&theme=default" height="170"/>
+  <!-- GitHub Stats (cupcake theme) -->
+  <img src="https://github-readme-stats.vercel.app/api?username=Yeju-Kang&show_icons=true&theme=cupcake" height="170"/>
   
-  <!-- Top Langs (화이트) -->
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yeju-Kang&layout=compact&theme=default" height="170"/>
-  
+  <!-- Top Langs (calm theme) -->
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yeju-Kang&layout=compact&theme=calm" height="170"/>
+
+
 </div>
+
 
 
 ---
