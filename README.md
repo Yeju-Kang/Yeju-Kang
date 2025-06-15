@@ -1,16 +1,18 @@
 ## 👩‍💻 Yeju Kang | Full Stack Developer 
 
- <!-- GitHub Stats -->
-  <img src="https://github-readme-stats.vercel.app/api?username=Yeju-Kang&show_icons=true&theme=tokyonight" alt="Yeju-Kang's GitHub stats" height="165"/>
+<div align="center" style="display: flex; justify-content: center; gap: 20px;">
+
+  <!-- GitHub Stats -->
+  <img src="https://github-readme-stats.vercel.app/api?username=Yeju-Kang&show_icons=true&theme=omni" alt="Yeju-Kang's GitHub stats" height="170"/>
   
   <!-- Top Langs -->
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yeju-Kang&layout=compact&theme=tokyonight" alt="Yeju-Kang's Top Langs" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yeju-Kang&layout=compact&theme=rose_pine" alt="Yeju-Kang's Top Langs" height="170"/>
   
   <!-- GitHub Streak -->
-  <br/>
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=Yeju-Kang&theme=tokyonight" alt="Yeju-Kang's GitHub streak" height="165"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=Yeju-Kang&theme=gradient" alt="Yeju-Kang's GitHub streak" height="170"/>
   
 </div>
+
 
 ---
 
