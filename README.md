@@ -1,14 +1,4 @@
 ## 👩‍💻 Yeju Kang | Full Stack Developer 
-
-<div align="center" style="display: flex; justify-content: center; gap: 20px;">
-
-  <!-- GitHub Stats (cupcake theme) -->
-  <img src="https://github-readme-stats.vercel.app/api?username=Yeju-Kang&show_icons=true&theme=cupcake" height="170"/>
-
-</div>
-
-
-
 ---
 
 <p align="center">
