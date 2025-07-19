@@ -1,4 +1,4 @@
-## 👩‍💻 Yeju Kang | Full Stack Developer 
+## 👩‍💻 Yeju Kang | Developer 
 ---
 
 <p align="center">
